@@ -1,0 +1,9 @@
+Request:
+{
+"userId": 1,
+}
+
+Response:
+{
+"success": true
+}

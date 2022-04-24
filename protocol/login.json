@@ -1,0 +1,11 @@
+Request:
+{
+username: "name",
+age: 23
+interests: ["reading", "movie"],
+school: "Rice University"
+}
+
+Response: {
+user: Use对象
+}

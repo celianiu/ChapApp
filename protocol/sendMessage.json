@@ -1,0 +1,13 @@
+Request:
+{
+"senderId": 1
+"receiverId":5  (-1 for Everyone)
+"roomId": 5,
+"messageData": 信息内容
+
+}
+Response:
+{
+"success": true
+"Message":message
+}

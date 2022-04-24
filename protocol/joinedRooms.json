@@ -1,0 +1,11 @@
+Request:
+{
+"userId": 1
+}
+
+Response:
+{
+"Rooms": List<Room>
+}
+
+

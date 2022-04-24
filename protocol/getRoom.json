@@ -1,0 +1,72 @@
+{
+  "room": {
+    "attendees": {
+      "1": {
+        "user": {
+          "userId": 1,
+          "userName": "Mack Joyner",
+          "age": 20,
+          "school": "Rice University",
+          "interests": ["Coding", "Cooking"],
+          "charRoomList": []
+        },
+        "roomId": 1,
+        "timeJoined": 1636004959468,
+        "messageHistory": []
+      },
+      "2": {
+        "user": {
+          "userId": 2,
+          "userName": "Risa Myers",
+          "age": 30,
+          "school": "Rice University",
+          "interests": ["Fishing", "Shopping"],
+          "charRoomList": []
+        },
+        "roomId": 1,
+        "timeJoined": 1636004959469,
+        "messageHistory": []
+      }
+    },
+    "owner": {
+      "userId": 1,
+      "userName": "Mack Joyner",
+      "age": 20,
+      "school": "Rice University",
+      "interests": ["Coding", "Cooking"],
+      "charRoomList": []
+    },
+    "maxNumber": 5,
+    "roomId": 1,
+    "roomName": "mock room",
+    "messageHistory": [{
+      "senderUsername": "Risa Myers",
+      "receiverUsername": "Mack Joyner",
+      "messageId": 1,
+      "senderId": 2,
+      "roomId": 1,
+      "time": 1636004959471,
+      "messageType": "PUBLIC_MESSAGE",
+      "message": "你在干嘛"
+    }, {
+      "senderUsername": "Risa Myers",
+      "messageId": 1,
+      "receiverUsername": "Everyone",
+      "senderId": 2,
+      "roomId": 1,
+      "time": 1636004959471,
+      "messageType": "PUBLIC_MESSAGE",
+      "message": "你在干嘛"
+    }, {
+      "senderUsername": "Mack Joyner",
+      "receiverUsername": "Everyone",
+      "messageId": 2,
+      "senderId": 1,
+      "roomId": 1,
+      "time": 1636004961471,
+      "messageType": "PUBLIC_MESSAGE",
+      "message": "我在吃饭"
+    }],
+    "isPrivate": false
+  }
+}

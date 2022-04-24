@@ -1,0 +1,9 @@
+Request:
+{
+  "kickeeId": 241
+  "roomId": 241
+}
+
+Response: {
+  success: true //true for kicked, false for warn
+}

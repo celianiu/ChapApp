@@ -1,0 +1,11 @@
+Request:
+{
+  "banChoice":1   // 1:ban user, 2: unban user
+  "adminId": 241
+  "bannedId": 241
+  "roomId": 241
+}
+
+Response: {
+room: Room对象
+}

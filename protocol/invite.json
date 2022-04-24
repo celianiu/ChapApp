@@ -1,0 +1,11 @@
+Request:
+{
+    "adminId": 241
+    "invitedId": 1,
+    "roomId": 5,
+}
+
+Response:
+{
+    "Room": Room对象
+}

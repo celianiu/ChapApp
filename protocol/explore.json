@@ -1,0 +1,11 @@
+Request:
+{
+  "userId" : 55
+}
+
+Response:
+{
+    roomList:[
+        所有Room对象
+    ]
+}

@@ -1,0 +1,9 @@
+Request:
+{
+"roomId": 5,
+}
+
+Response:
+{
+"Users": List<User>
+}

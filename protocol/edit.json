@@ -1,0 +1,12 @@
+Request:
+{
+"userId":6
+"roomId": 5,
+"messageId":5
+"changedBody":7
+}
+
+Response:
+{
+success: true
+}

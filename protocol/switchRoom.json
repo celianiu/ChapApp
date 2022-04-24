@@ -1,0 +1,9 @@
+Request:
+{
+  userId: 241,
+  roomId: 241
+}
+
+Response: {
+  room: Room对象
+}

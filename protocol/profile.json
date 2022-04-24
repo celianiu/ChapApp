@@ -1,0 +1,8 @@
+Request:
+{
+userid: 123,
+
+}
+Response: {
+user: Use对象
+}

@@ -1,0 +1,13 @@
+Request:
+{
+  "isPrivate" : true,
+  "userId": 1,
+  "roomCapacity": 5,
+  "roomName": "room 1",
+  "roomDescription": "",
+}
+
+Response:
+{
+  "Room": Room对象
+}

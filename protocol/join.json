@@ -1,0 +1,13 @@
+Request:
+{
+    "userId": 1,
+    "roomId": 5,
+}
+
+Response:
+{
+    "Room": Room Object
+    "success": true
+}
+
+
